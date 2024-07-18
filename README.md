@@ -1,1 +1,1 @@
-# Python-Interactive-Dashboard-Development-using-Streamlit-and-Plotly
+# Python-Interactive-Dashboard
